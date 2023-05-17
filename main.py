@@ -1,4 +1,3 @@
-import csv
 from hashlib import sha256
 
 hash_dict = dict()
